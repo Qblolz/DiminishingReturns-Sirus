@@ -151,13 +151,19 @@ Data.spells = {
 	[1330] = "silence",
 	
 	-- Arcane Torrent (Energy version)
-	[25046] = "silence",
+	[316418] = "silence",
 	
 	-- Arcane Torrent (Mana version)
-	[28730] = "silence",
+	[316421] = "silence",
 	
 	-- Arcane Torrent (Runic power version)
-	[50613] = "silence",
+	[302387] = "silence",
+	
+	-- Arcane Torrent
+	[316419] = "silence",
+	
+	-- Arcane Torrent
+	[316420] = "silence",
 	
 	-- Silence
 	[15487] = "silence",
@@ -294,10 +300,10 @@ Data.spells = {
 	[316161] = "ctrlstun",
 	
 	-- Vulpera Stun
-	[308726] = "ctrlstun",
+	[316455] = "ctrlstun",
 
 	-- War Stomp
-	[20549] = "ctrlstun",
+	[316386] = "ctrlstun",
 
 	-- Intercept
 	[20252] = "ctrlstun",
