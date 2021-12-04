@@ -247,10 +247,14 @@ Data.spells = {
 
 	--[[ CONTROL STUNS ]]--
 	-- Intercept (Felguard)
+	[25274] = "ctrlstun",
 	[30153] = "ctrlstun",
 	[30195] = "ctrlstun",
 	[30197] = "ctrlstun",
 	[47995] = "ctrlstun",
+	
+	-- Wolf stuns (shaman pets)
+	[58861] = "ctrlstun",
 	
 	-- Ravage
 	[50518] = "ctrlstun",
