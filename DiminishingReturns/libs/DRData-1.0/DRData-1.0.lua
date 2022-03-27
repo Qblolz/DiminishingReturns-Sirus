@@ -141,6 +141,9 @@ Data.spells = {
 	
 	-- Repentance
 	[20066] = "disorient",
+	
+	-- panda
+	[316443] = "disorient",
 		
 	--[[ SILENCES ]]--
 	-- Nether Shock
