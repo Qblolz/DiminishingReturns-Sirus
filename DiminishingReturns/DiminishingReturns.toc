@@ -9,7 +9,7 @@
 ## Notes-zhCN: |@Version: 3@|在单位框体附着递减规则图标。
 ## Notes-zhTW: |@Version: 3@|在單位框體附著遞減規則圖示。
 ## Author: Adirelle
-## Version: v1.1
+## Version: v1.0
 ## X-Date: 2010-07-06T12:10:41Z
 
 ## SavedVariables: DiminishingReturnsDB
@@ -39,6 +39,7 @@ support\ag_UnitFrames.lua
 support\Blizzard.lua
 support\Blizzard_ArenaUI.lua
 support\Gladius.lua
+support\Gladdy.lua
 support\oUF.lua
 support\Nameplates.lua
 support\PitBull4.lua
