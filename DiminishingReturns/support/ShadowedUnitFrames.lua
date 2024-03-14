@@ -32,6 +32,7 @@ addon:RegisterAddonSupport('ShadowedUnitFrames', function()
 
 	RegisterFrame('target')
 	RegisterFrame('focus')
+	RegisterFrame('player')
 	
 end)
 
