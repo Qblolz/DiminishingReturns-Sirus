@@ -10,7 +10,7 @@
 ## Notes-zhCN: |@Version: 3@|在单位框体附着递减规则图标。
 ## Notes-zhTW: |@Version: 3@|在單位框體附著遞減規則圖示。
 ## Author: Adirelle
-## Version: v1.10
+## Version: v1.11
 ## X-Date: 2010-07-06T12:10:41Z
 
 ## SavedVariables: DiminishingReturnsDB
