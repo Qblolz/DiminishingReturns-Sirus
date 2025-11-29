@@ -150,10 +150,7 @@ Data.spells = {
 	[1330] = "silence",
 
     -- Arcane Torrent
-    [375001 ] = "silence",
-
-    -- Arcane Torrent
-    [316420] = "silence",
+    [375001] = "silence",
 	
 	-- Silence
 	[15487] = "silence",
