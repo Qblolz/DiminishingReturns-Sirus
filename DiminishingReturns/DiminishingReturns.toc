@@ -1,7 +1,7 @@
 ## Interface: 30400
 
 ## Title: Diminishing Returns
-## Notes: |@Version: 4@|Attach diminishing return icons to unit frames.
+## Notes: |@Version: 5@|Attach diminishing return icons to unit frames.
 ## Author: Adirelle
 ## Version: v1.4.4
 ## X-Date: 2014-11-25T06:34:32Z

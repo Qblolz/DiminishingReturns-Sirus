@@ -5,7 +5,7 @@
 ## X-Curse-Repository-ID: wow/diminishingreturns/mainline
 
 ## Title: Diminishing Returns - configuration UI
-## Notes: |@Version: 4@|Diminishing returns configuration interface.
+## Notes: |@Version: 5@|Diminishing returns configuration interface.
 ## Author: Adirelle
 ## Version: v1.4.4
 ## X-Date: 2014-11-25T06:34:32Z
